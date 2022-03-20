@@ -373,7 +373,7 @@ section{
 }
 
 .services .box-container .box:hover{
-    background: var(--black);
+     background: cyan;
 }
 
 .services .box-container .box:hover h3{
